@@ -1,0 +1,78 @@
+p {
+	font-family: Potta One;
+}
+
+
+
+
+
+.logo {
+padding-top: 39px;
+padding-left: 30px;
+
+}
+
+.pirveli {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow;
+}
+
+.mtavari {
+    padding-top: 27px;
+	padding-left: 30px;
+	width: 92px;
+	height: 25px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #EE4036;
+	font-size: 22px;
+	display: inline-block;
+}
+
+.siaxle {
+	padding-top: 7px;
+	padding-left: 30px;
+	width: 113px;
+	height: 25px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #3D58A6;
+	opacity: 1;
+	font-size: 22px;
+}
+
+.kontaqti {
+	padding-top: 7px;
+	padding-left: 30px;
+	width: 103px;
+	height: 200px;
+	text-align: left;
+	letter-spacing: 0px;
+	color: #3D58A6
+	opacity: 1;
+	font-size: 22px;
+}
+
+.imgbox {
+	padding top:20px;
+	padding left: 30px;
+	width: 1170px;
+
+}
+
+/*aman dzaan gamawama */
+.textbox {
+    top: 360px;
+    left: 60px;
+    height: 178px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #E6E6E6;
+    opacity: 1;
+    position:absolute;
+    font-size: 30px;
+}

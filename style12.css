@@ -1,0 +1,24 @@
+.textbox2 {
+	top: 360px;
+    left: 60px;
+    height: 178px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #E6E6E6;
+    opacity: 1;
+    position:absolute;
+    font-size: 30px;
+
+}
+
+.sakontaqto {
+text-align: center;
+top: 519px;
+left: 322px;
+width: 250px;
+height: 92px;
+font-family:BPGNinoMtavruli-Bold;
+	font-size: 20px;
+	color: #3D58A6
+
+}
